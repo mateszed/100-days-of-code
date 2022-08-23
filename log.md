@@ -14,7 +14,7 @@
 
 **Link(s) to work**:
 
-### Day 2: August 22, 2022
+### Day 2: August 23, 2022
 
 **Today's Progress**: 
 
