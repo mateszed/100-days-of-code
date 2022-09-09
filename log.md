@@ -39,3 +39,11 @@ NOTE: This is a rough journal of my coding progress and I am not following #100 
 **Thoughts** Making progress!
 
 **Link(s) to work**
+
+### Sept 9, 2022
+
+**Today's Progress**: Completed the first week of the Classcentral Web Development and Javascript courses.
+
+**Thoughts**
+
+**Link(s) to work**
